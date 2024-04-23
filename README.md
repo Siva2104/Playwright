@@ -1,23 +1,13 @@
 # Playwright
 
 
-// Playwright commends used in the Terminal
-npm install nightwatch@latest
-*** npx nightwatch test --project chromium --headed 
-npx nightwatch test 
-npx nightwatch test --workers 3
-npx nightwatch test <File_name>
-npx nightwatch test <File_path>
-npx nightwatch test --ui 
+Any browser • Any platform • One API
+Cross-browser. Playwright supports all modern rendering engines including Chromium, WebKit, and Firefox.
 
-npx nightwatch test -g "File_name" // run test with name
-npx playwright codegen 
-npx playwright codegen  --help
-npx playwright codegen  --headed 
+Cross-platform. Test on Windows, Linux, and macOS, locally or on CI, headless or headed.
 
-trace:
+Cross-language. Use the Playwright API in TypeScript, JavaScript, Python, .NET, Java.
 
-npx playwright test --trace on  
-    
+Test Mobile Web. Native mobile emulation of Google Chrome for Android and Mobile Safari. The same rendering engine works on your Desktop and in the Cloud.
 
 
